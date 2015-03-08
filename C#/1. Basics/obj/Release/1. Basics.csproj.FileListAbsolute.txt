@@ -1,0 +1,4 @@
+F:\Agile Development\Code\C#\CSharp\1. Basics\bin\Release\Basics.exe
+F:\Agile Development\Code\C#\CSharp\1. Basics\bin\Release\Basics.pdb
+F:\Agile Development\Code\C#\CSharp\1. Basics\obj\Release\Basics.exe
+F:\Agile Development\Code\C#\CSharp\1. Basics\obj\Release\Basics.pdb

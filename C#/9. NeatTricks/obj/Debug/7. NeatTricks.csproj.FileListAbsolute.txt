@@ -1,0 +1,5 @@
+F:\Agile Development\Code\C#\CSharp\7. NeatTricks\bin\Debug\_7.NeatTricks.exe
+F:\Agile Development\Code\C#\CSharp\7. NeatTricks\bin\Debug\_7.NeatTricks.pdb
+F:\Agile Development\Code\C#\CSharp\7. NeatTricks\obj\Debug\_7.NeatTricks.exe
+F:\Agile Development\Code\C#\CSharp\7. NeatTricks\obj\Debug\_7.NeatTricks.pdb
+F:\Agile Development\Code\C#\CSharp\7. NeatTricks\obj\Debug\7. NeatTricks.csprojResolveAssemblyReference.cache

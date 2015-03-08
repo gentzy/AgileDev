@@ -1,0 +1,5 @@
+F:\Agile Development\Code\C#\CSharp\3. Properties\bin\Debug\_3.Properties.exe
+F:\Agile Development\Code\C#\CSharp\3. Properties\bin\Debug\_3.Properties.pdb
+F:\Agile Development\Code\C#\CSharp\3. Properties\obj\Debug\3. Properties.csprojResolveAssemblyReference.cache
+F:\Agile Development\Code\C#\CSharp\3. Properties\obj\Debug\_3.Properties.exe
+F:\Agile Development\Code\C#\CSharp\3. Properties\obj\Debug\_3.Properties.pdb

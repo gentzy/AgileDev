@@ -1,0 +1,5 @@
+c:\users\gentiana\documents\visual studio 2012\Projects\Basics\Basics\bin\Debug\Basics.exe
+c:\users\gentiana\documents\visual studio 2012\Projects\Basics\Basics\bin\Debug\Basics.pdb
+c:\users\gentiana\documents\visual studio 2012\Projects\Basics\Basics\obj\Debug\Basics.csprojResolveAssemblyReference.cache
+c:\users\gentiana\documents\visual studio 2012\Projects\Basics\Basics\obj\Debug\Basics.exe
+c:\users\gentiana\documents\visual studio 2012\Projects\Basics\Basics\obj\Debug\Basics.pdb

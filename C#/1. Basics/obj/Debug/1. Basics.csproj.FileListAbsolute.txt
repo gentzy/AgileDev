@@ -1,0 +1,8 @@
+F:\Agile Development\Code\C#\Basics\Basics\bin\Debug\Basics.exe
+F:\Agile Development\Code\C#\Basics\Basics\bin\Debug\Basics.pdb
+F:\Agile Development\Code\C#\Basics\Basics\obj\Debug\Basics.exe
+F:\Agile Development\Code\C#\Basics\Basics\obj\Debug\Basics.pdb
+F:\Agile Development\Code\C#\CSharp\1. Basics\obj\Debug\Basics.exe
+F:\Agile Development\Code\C#\CSharp\1. Basics\obj\Debug\Basics.pdb
+F:\Agile Development\Code\C#\CSharp\1. Basics\bin\Debug\Basics.exe
+F:\Agile Development\Code\C#\CSharp\1. Basics\bin\Debug\Basics.pdb

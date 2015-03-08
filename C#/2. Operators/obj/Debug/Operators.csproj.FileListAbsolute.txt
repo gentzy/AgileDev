@@ -1,0 +1,5 @@
+F:\Agile Development\Code\C#\Operators\Operators\bin\Debug\Operators.exe
+F:\Agile Development\Code\C#\Operators\Operators\bin\Debug\Operators.pdb
+F:\Agile Development\Code\C#\Operators\Operators\obj\Debug\Operators.csprojResolveAssemblyReference.cache
+F:\Agile Development\Code\C#\Operators\Operators\obj\Debug\Operators.exe
+F:\Agile Development\Code\C#\Operators\Operators\obj\Debug\Operators.pdb

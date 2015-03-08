@@ -1,0 +1,4 @@
+F:\Agile Development\Code\C#\CSharp\8. LINQ\bin\Debug\_8.LINQ.exe
+F:\Agile Development\Code\C#\CSharp\8. LINQ\bin\Debug\_8.LINQ.pdb
+F:\Agile Development\Code\C#\CSharp\8. LINQ\obj\Debug\_8.LINQ.exe
+F:\Agile Development\Code\C#\CSharp\8. LINQ\obj\Debug\_8.LINQ.pdb

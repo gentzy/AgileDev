@@ -1,0 +1,5 @@
+F:\Agile Development\Code\C#\CSharp\8. Collections\obj\Debug\_6.Collections.exe
+F:\Agile Development\Code\C#\CSharp\8. Collections\obj\Debug\_6.Collections.pdb
+F:\Agile Development\Code\C#\CSharp\8. Collections\bin\Debug\_6.Collections.exe
+F:\Agile Development\Code\C#\CSharp\8. Collections\bin\Debug\_6.Collections.pdb
+F:\Agile Development\Code\C#\CSharp\8. Collections\obj\Debug\8. Collections.csprojResolveAssemblyReference.cache

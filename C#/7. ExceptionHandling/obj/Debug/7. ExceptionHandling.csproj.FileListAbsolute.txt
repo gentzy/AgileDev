@@ -1,0 +1,5 @@
+F:\Agile Development\Code\C#\CSharp\7. ExceptionHandling\obj\Debug\ExceptionHandling.exe
+F:\Agile Development\Code\C#\CSharp\7. ExceptionHandling\obj\Debug\ExceptionHandling.pdb
+F:\Agile Development\Code\C#\CSharp\7. ExceptionHandling\bin\Debug\ExceptionHandling.exe
+F:\Agile Development\Code\C#\CSharp\7. ExceptionHandling\bin\Debug\ExceptionHandling.pdb
+F:\Agile Development\Code\C#\CSharp\7. ExceptionHandling\obj\Debug\7. ExceptionHandling.csprojResolveAssemblyReference.cache

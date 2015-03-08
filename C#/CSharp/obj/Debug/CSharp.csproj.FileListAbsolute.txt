@@ -1,0 +1,5 @@
+F:\Agile Development\Code\C#\CSharp\CSharp\bin\Debug\CSharp.exe
+F:\Agile Development\Code\C#\CSharp\CSharp\bin\Debug\CSharp.pdb
+F:\Agile Development\Code\C#\CSharp\CSharp\obj\Debug\CSharp.csprojResolveAssemblyReference.cache
+F:\Agile Development\Code\C#\CSharp\CSharp\obj\Debug\CSharp.exe
+F:\Agile Development\Code\C#\CSharp\CSharp\obj\Debug\CSharp.pdb

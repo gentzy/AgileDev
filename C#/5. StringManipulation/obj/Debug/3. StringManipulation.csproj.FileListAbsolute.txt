@@ -1,0 +1,5 @@
+F:\Agile Development\Code\C#\CSharp\StringManipulation\bin\Debug\StringManipulation.exe
+F:\Agile Development\Code\C#\CSharp\StringManipulation\bin\Debug\StringManipulation.pdb
+F:\Agile Development\Code\C#\CSharp\StringManipulation\obj\Debug\3. StringManipulation.csprojResolveAssemblyReference.cache
+F:\Agile Development\Code\C#\CSharp\StringManipulation\obj\Debug\StringManipulation.exe
+F:\Agile Development\Code\C#\CSharp\StringManipulation\obj\Debug\StringManipulation.pdb

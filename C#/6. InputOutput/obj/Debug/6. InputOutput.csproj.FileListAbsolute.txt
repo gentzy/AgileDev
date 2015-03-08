@@ -1,0 +1,5 @@
+F:\Agile Development\Code\C#\CSharp\6. InputOutput\obj\Debug\InputOutput.exe
+F:\Agile Development\Code\C#\CSharp\6. InputOutput\obj\Debug\InputOutput.pdb
+F:\Agile Development\Code\C#\CSharp\6. InputOutput\bin\Debug\InputOutput.exe
+F:\Agile Development\Code\C#\CSharp\6. InputOutput\bin\Debug\InputOutput.pdb
+F:\Agile Development\Code\C#\CSharp\6. InputOutput\obj\Debug\6. InputOutput.csprojResolveAssemblyReference.cache
