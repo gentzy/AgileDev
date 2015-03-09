@@ -1,0 +1,5 @@
+F:\Agile Development\Code\C#\Practice 2\Practice 2\bin\Debug\Practice 2.exe
+F:\Agile Development\Code\C#\Practice 2\Practice 2\bin\Debug\Practice 2.pdb
+F:\Agile Development\Code\C#\Practice 2\Practice 2\obj\Debug\Practice 2.csprojResolveAssemblyReference.cache
+F:\Agile Development\Code\C#\Practice 2\Practice 2\obj\Debug\Practice 2.exe
+F:\Agile Development\Code\C#\Practice 2\Practice 2\obj\Debug\Practice 2.pdb

@@ -1,0 +1,2 @@
+F:\Github\.git\Courses\Courses\C#\Assignments\CSharpBasics\obj\Debug\Practice 2.exe
+F:\Github\.git\Courses\Courses\C#\Assignments\CSharpBasics\obj\Debug\Practice 2.pdb
